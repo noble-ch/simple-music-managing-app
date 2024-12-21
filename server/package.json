@@ -22,7 +22,7 @@
   },
   "scripts": {
     "dev": "nodemon",
-    "start": "ts-node index.ts"
+    "start": "bun index.ts"
   },
   "name": "server",
   "module": "index.ts",
